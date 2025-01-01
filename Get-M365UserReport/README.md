@@ -1,5 +1,5 @@
 Author: Alex
-Date: 12/25/2024
+Date: 12/30/2024
 Description: This PowerShell script automates the generation of a report containing key attributes for Microsoft 365 users.
 
 Functionality
